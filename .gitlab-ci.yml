@@ -1,0 +1,24 @@
+variables:
+  DOCKER_HOST: "unix:///var/run/docker.sock"
+  DOCKER_DRIVER: overlay2
+  DOCKER_TLS_CERTDIR: ""
+
+  DOCKER_ECR_LINK: 161875498481.dkr.ecr.ap-southeast-1.amazonaws.com
+  DOCKER_ECR_REGION: ap-southeast-1 
+  DOCKERFILE_DIR: "./" ## Path contain Dockerfile
+
+  SERVICE_NAME: web                         ## Service's Name
+  SERVICE_PORT: 3000                       ## Service's Port
+  PROJECT: powerup                      ## Project's Name - using for config domain
+  DOMAIN:  bap.jp  ## bap.jp or bappartners.com - subdomain template: {PROJECT}-{ENV}-{SERVICE_NAME}.{DOMAIN} -- ex: nodejsdemo-dev-api.bappartners.com
+
+
+
+include:
+  - project: 'template/gitlab-ci-template'
+    ref: develop
+    file: 'kubernetes/HCM_DC/common.yaml'
+  - project: 'template/gitlab-ci-template'
+    ref: develop
+    file: 'kubernetes/HCM_DC/deploy-k8s-secret.yaml'
+
