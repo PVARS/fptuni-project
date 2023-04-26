@@ -13,7 +13,7 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@gh-pages
+        uses: actions/checkout@v3
 
       - name: Setup node env
         uses: actions/setup-node@v2.1.2
