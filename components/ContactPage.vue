@@ -116,12 +116,12 @@ export default {
 } */
 
 @font-face {
-  src: url(../assets/font/Tapestry-Regular.ttf);
+  src: url(~/assets/font/Tapestry-Regular.ttf);
   font-family: tap;
 }
 
 @font-face {
-  src: url(../assets/font/TAHOMAB0.ttf);
+  src: url(~/assets/font/TAHOMAB0.ttf);
   font-family: tahoma;
 }
 
