@@ -82,7 +82,7 @@ export default {
 
 <style scoped lang="css">
 /* contact */
-@font-face {
+/* @font-face {
   src: url(~/assets/font/Itim-Regular.ttf);
 }
 
@@ -98,7 +98,7 @@ export default {
 @font-face {
   src: url(~/assets/font/eula.ttf);
   font-family: eula;
-}
+} */
 
 /* @font-face {
   src: url(../assets/font/LetterPress_Condensed.ttf);
@@ -115,10 +115,10 @@ export default {
   font-family: wood;
 } */
 
-@font-face {
+/* @font-face {
   src: url(~/assets/font/Tapestry-Regular.ttf);
   font-family: tap;
-}
+} */
 
 @font-face {
   src: url(~/assets/font/TAHOMAB0.ttf);

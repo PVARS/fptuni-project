@@ -107,10 +107,4 @@ export default {
             },
         },
     },
-
-    target: 'static',
-
-    router: {
-        base: 'fptuni-project'
-      }
 }

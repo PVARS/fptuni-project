@@ -62,7 +62,7 @@ export default {
 
 <style lang="scss">
 @font-face {
-  src: url(../assets/font/luckiest-guy.regular.ttf);
+  src: url(~/assets/font/luckiest-guy.regular.ttf);
   font-family: luckiestguy;
 }
 
