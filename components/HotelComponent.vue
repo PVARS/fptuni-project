@@ -115,7 +115,9 @@ export default {}
 }
 
 .suggest {
-  background: #00a668;
+  background: 
+#379237
+;
 }
 
 .suggest-header {
@@ -123,8 +125,8 @@ export default {}
   color: white;
   font-family: 'tahoma';
   text-align: center;
-  background: #00a668;
-  padding-top: 40px;
+  background: #379237;
+  padding-top: 100px;
 }
 
 .suggest-content {

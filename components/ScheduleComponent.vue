@@ -5,7 +5,7 @@
         SỨ MỆNH - TẦM NHÌN - GIÁ TRỊ CỐT LÕI
       </div>
       <div class="content-schedule__list">
-          <img src="../assets/img/banner1.jpg" alt="" width="1000px">
+          <img src="../assets/img/banner1.png" alt="" width="1000px">
         <!-- <div class="content-schedule__item">
           
           <a
@@ -60,20 +60,23 @@ export default {
 <style scoped lang="scss">
 .content-schedule__border {
   margin: 80px;
+  transition: margin-left 2s 0.5s ease-in-out;
 }
 
 .content-schedule {
   margin-top: 2vh;
   display: flex;
+      color: #379237;
   flex-direction: column;
   // border: 2px solid #00a668;
+  transition: transform linear 0.2s , opacity linear 0.3s;
 }
 
 .content-schedule__header {
   text-align: center;
-  color: #00a668;
   font-family: 'tahoma';
   font-size: 4rem !important;
+  padding: 90px 0px 0px 0px
 }
 
 .content-schedule__list {

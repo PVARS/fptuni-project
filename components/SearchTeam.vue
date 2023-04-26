@@ -1871,6 +1871,10 @@ export default {
   -webkit-filter: sepia(100%);
   filter: sepia(100%);
 }
+.card-title {
+    margin-bottom: 0.75rem;
+    color: #379273;
+}
 
 /*GrayScale*/
 .column#grayscale img {
@@ -2015,7 +2019,8 @@ export default {
   font-size: 3.6rem;
   margin-top: 2%;
   text-align: center;
-  color: #00a668;
+  color: #379237;
+  padding-top: 80px;
 }
 
 .progress-bar {

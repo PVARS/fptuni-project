@@ -1,5 +1,5 @@
 <template>
-  <section class="suggest py-5" style="background-color: #00a668">
+  <section class="suggest py-5" style="background-color: #379237">
     <div id="suggestion" class="">
       <h1 class="content-play__header text-center">DỰ ÁN</h1>
     </div>
@@ -22,7 +22,6 @@
               <label for="tab8"><span class="fa-solid fa-star" aria-hidden="true"></span>Pose dáng mlem mlem</label> -->
               
               <section id="content7">
-                <h5 style="color: aliceblue;">Các sản phẩm NFT Avatar không thể public, nên chúng tôi chỉ cung cấp những sản phẩm mẫu</h5>
                 <div class="services-layout py-md-4 py-3">
                   <div class="container">
                     <div class="row">
@@ -195,6 +194,7 @@
                 </div>
               </section>
               <section id="content5">
+                
                 <div class="services-layout py-md-4 py-3">
                   <div class="container">
                     <div class="row">
@@ -289,14 +289,14 @@
                               <figure class="snip0016">
                                 <img class="img-suggestions" src="../assets/img/nt5.jpg" alt="sample41" />
                                 <figcaption>
-                                <h2>Phòng làm việc của sếp</h2>
+                                <h2>Phòng làm việc của giám đốc</h2>
                                 <p>Có không gian tiếp khách, nội thất màu sáng tạo cảm giác thanh lịch. Phòng làm việc được chia 2 khu vực rõ ràng là bàn làm việc chính và bàn tiếp khác</p>
                                   
                                 </figcaption>
                               </figure>
                           
                             <h3>
-                              <a  class="vv-link">Phòng làm việc của sếp</a>
+                              <a  class="vv-link">Phòng làm việc của giám đốc</a>
                             </h3>
                           </div>
                         </div>
@@ -370,6 +370,8 @@
                 </div>
               </section>
               <section id="content6">
+                <h5 style="color: #b22222;">** Các sản phẩm NFT Avatar không thể public, nên chúng tôi chỉ cung cấp một vài sản phẩm mẫu</h5>
+
                 <div class="services-layout py-md-4 py-3">
                   <div class="container">
                     <div class="row">
@@ -781,7 +783,7 @@ figure.snip0016:hover figcaption::before {
   font-family: 'tahoma';
 }
 .page-img {
-  background-color: #00a668;
+  background-color: #379237;
   padding: 2%;
   margin-top: -5%;
 }
@@ -801,7 +803,7 @@ figure.snip0016:hover figcaption::before {
   }
 }
 .suggest .services-gd {
-  background: #00a668;
+  background: #379237;
   border: 1px solid white;
   padding: 1em;
   border-radius: 15px;
@@ -829,7 +831,7 @@ figure.snip0016:hover figcaption::before {
   font-size: 20px;
   text-align: center;
   line-height: 25px;
-  font-family: 'itim';
+  /* font-family: 'heveltica'; */
   margin-bottom: 20px;
   display: inherit;
   font-weight: 600;
@@ -945,10 +947,10 @@ figure.snip0016:hover figcaption::before {
   text-align: center;
   color: white;
   border: none;
-  background: #243b5e;
   text-transform: uppercase;
   font-size: 0.9em;
   margin-top: 10px;
+  border: solid 0.5px white;
 }
 
 .tab-menu-suggestion span {
@@ -962,7 +964,7 @@ figure.snip0016:hover figcaption::before {
 
 .tab-menu-suggestion input:checked + label {
   background: #f1f5f3;
-  color: #00a668;
+  color: #379237;
 }
 
 .tab-menu-suggestion #tab5:checked ~ #content5,

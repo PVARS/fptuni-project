@@ -53,7 +53,9 @@
     text-decoration: none;
     margin-right: 48px;
 }
-
+.nav__link:hover{
+    opacity: 0.4;
+}
 .nav__link a {
     color: #fff;
 }

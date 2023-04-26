@@ -17,19 +17,26 @@
           <li class="nav__link">
             <a href="/">Trang chủ</a>
           </li>
-          <li class="nav__link"><a href="#aboutus">Về chúng tôi</a></li>
+          <li class="nav__link dropdown"> 
+            <button class="dropbtn">Về chúng tôi</button>
+            <div class="dropdown-content">
+            <a href="#aboutus"> Giới thiệu chung</a>
+            <a href="#schedulecpn">Sứ mệnh - Tầm nhìn - Giá trị cốt lõi</a>
+            <a href="#island">Đội ngũ chúng tôi</a>
+            </div>
+          </li>
           <li class="nav__link dropdown">
-            <button class="dropbtn">Dịch vụ</button>
+            <button a href="#service-content" class="dropbtn">Dịch vụ</button>
             <div class="dropdown-content">
             <a href="#service-content">Thiết kế nội thất 3D</a>
             <a href="#service-content">Thiết kế bộ nhận diện thương hiệu</a>
             <a href="#service-content">Thiết kế NFT Avatar</a>
             </div>
           </li>
-          <li class="nav__link"><a href="#Project">Đối tác</a></li>
+          <li class="nav__link"><a href="#memory">Đối tác</a></li>
           <li class="nav__link"><a href="#team">Tin tức và sự kiện</a></li>
           <li class="nav__link"><a href="#island">FAQ</a></li>
-          <li class="nav__link"><a href="#memory">Liên hệ</a></li>
+          <li class="nav__link"><a href="#lien_he">Liên hệ</a></li>
           <!-- <li class="nav__link"><a href="#suggestion">Suggestion</a></li>
           <li class="nav__link"><a href="#lovemailbox">Love mailbox</a></li> -->
           <!-- <li v-if="!user" class="nav__link">
@@ -79,7 +86,7 @@
               <a href="#schedulecpn">Dịch vụ</a>
             </li>
             <li class="nav__link-mobile" @click="hideNav">
-              <a href="#project">Đối tác</a>
+              <a href="#memory">Đối tác</a>
             </li>
             <li class="nav__link-mobile" @click="hideNav">
               <a href="#team">Tin tức và sự kiện</a>
@@ -144,7 +151,10 @@ export default {
 
 <style scoped lang="scss">
 .dropbtn {
-  background-color: #00a668;
+  background-color: 
+
+#379237
+;
   color: white;
   padding: 16px;
   font-size: 16px;
@@ -160,7 +170,10 @@ export default {
 .dropdown-content {
   display: none;
   position: absolute;
-  background-color: #00a668;
+  background-color: 
+
+#379237
+;
   min-width: 280px;
   z-index: 1;
 }
@@ -181,7 +194,10 @@ export default {
 }
 
 .dropdown:hover .dropbtn {
-  background-color: #00a668;
+  background-color: 
+
+#379237
+;
 }
 
 .dropdown-item:hover {
@@ -219,7 +235,10 @@ export default {
 }
 
 .navbar {
-  background: #00a668;
+  background: 
+
+#379237
+;
   position: fixed;
   top: 40px;
   width: 74vw;
@@ -247,7 +266,10 @@ export default {
 }
 
 .skite {
-  background: #00a668;
+  background: 
+
+#379237
+;
   position: sticky;
   width: 100%;
   top: 0;
@@ -271,7 +293,10 @@ export default {
 .nav__pc {
   align-items: center;
   display: flex;
-  background: #00a668;
+  background: 
+
+#379237
+;
   justify-content: center;
 }
 

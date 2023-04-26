@@ -9,7 +9,7 @@
     <!-- <button class="logout" @click="login">Login with Google</button> -->
     <!-- <button class="logout" @click="logout">Logout with Google</button> -->
 
-    <div class="container py-md-5">
+    <div id="lien_he" class="container py-md-5">
       <h3 class="heading text-center mb-3 mb-sm-5">LIÊN HỆ</h3>
       <div class="contact-grids mt-5">
         <div class="row">
@@ -84,14 +84,12 @@ export default {
 /* contact */
 @font-face {
   src: url(../assets/font/Itim-Regular.ttf);
-  font-family: itim;
 }
 
 @font-face {
   src: url(../assets/font/alura.ttf);
-  font-family: alura;
-}
 
+}
 @font-face {
   src: url(../assets/font/Beef3.ttf);
   font-family: back;
@@ -130,7 +128,10 @@ export default {
 .heading {
   font-size: 3.8em;
   font-family: 'tahoma';
-  color: #00a668;
+  color: 
+
+#379237
+;
 }
 
 /* @media (max-width: 500px) {
@@ -169,7 +170,7 @@ export default {
   background: #f6f6f6;
   outline: none;
   border: none;
-  font-family: 'itim';
+  /* font-family: 'itim' */
   letter-spacing: 1px;
   border-radius: 0px;
   outline: none !important;
@@ -186,11 +187,11 @@ button.sent-butnn {
   text-decoration: none;
   text-transform: capitalize;
   display: inline-block;
-  font-family: 'itim';
+  /* font-family: 'itim'; */
   letter-spacing: 2px;
   outline: none;
   color: #fff;
-  background: #006dd1;
+  background: #379237;
   border-radius: 0px;
   padding: 10px 20px;
 }

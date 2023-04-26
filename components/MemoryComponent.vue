@@ -5,117 +5,44 @@
     </p>
     <b-row>
       <b-col>
-        <div class="md-step-title">
-          <i
-            class="fa fa-long-arrow-right arrow4"
-            aria-hidden="true"
-          ></i
-          ><br />
-          <!-- <b><span class="team-font">Lên thuyền</span></b> -->
-        </div>
-        <b-img src="../assets/img/1-1.png" class="content_img_icon_road" />
+        <b-img src="../assets/img/1-1.png" class="content_img_icon_road " />
       </b-col>
       <b-col>
-        <div class="md-step-title">
-          <i
-            class="fa fa-long-arrow-right arrow4"
-            aria-hidden="true"
-          ></i
-          ><br />
-          <!-- <b><span class="team-font">Lên thuyền</span></b> -->
-        </div>
         <b-img src="../assets/img/2-2.png" class="content_img_icon_road" />
       </b-col>
       <b-col>
-        <div class="md-step-title">
-          <i
-            class="fa fa-long-arrow-right arrow4"
-            aria-hidden="true"
-          ></i
-          ><br />
-          <!-- <b><span class="team-font">Lên thuyền</span></b> -->
-        </div>
         <b-img src="../assets/img/3-3.png" class="content_img_icon_road" />
       </b-col>
       <b-col>
-        <div class="md-step-title">
-          <i
-            class="fa fa-long-arrow-right arrow4"
-            aria-hidden="true"
-          ></i
-          ><br />
-          <!-- <b><span class="team-font">Lên thuyền</span></b> -->
-        </div>
         <b-img src="../assets/img/4.png" class="content_img_icon_road" />
       </b-col>
       <b-col>
-        <div class="md-step-title">
-          <i
-            class="fa fa-long-arrow-right arrow4"
-            aria-hidden="true"
-          ></i
-          ><br />
-          <!-- <b><span class="team-font">Lên thuyền</span></b> -->
-        </div>
         <b-img src="../assets/img/5.png" class="content_img_icon_road" />
       </b-col>
+      
+    </b-row>
+    <b-row>
+     
       <b-col>
-        <div class="md-step-title">
-          <i
-            class="fa fa-long-arrow-right arrow4"
-            aria-hidden="true"
-          ></i
-          ><br />
-          <!-- <b><span class="team-font">Lên thuyền</span></b> -->
-        </div>
         <b-img src="../assets/img/6.png" class="content_img_icon_road" />
       </b-col>
       <b-col>
-        <div class="md-step-title">
-          <i
-            class="fa fa-long-arrow-right arrow4"
-            aria-hidden="true"
-          ></i
-          ><br />
-          <!-- <b><span class="team-font">Lên thuyền</span></b> -->
-        </div>
         <b-img src="../assets/img/7.png" class="content_img_icon_road" />
       </b-col>
       <b-col>
-        <div class="md-step-title">
-          <i
-            class="fa fa-long-arrow-right arrow4"
-            aria-hidden="true"
-          ></i
-          ><br />
-          <!-- <b><span class="team-font">Lên thuyền</span></b> -->
-        </div>
         <b-img src="../assets/img/8.png" class="content_img_icon_road" />
       </b-col>
       <b-col>
-        <div class="md-step-title">
-          <i
-            class="fa fa-long-arrow-right arrow4"
-            aria-hidden="true"
-          ></i
-          ><br />
-          <!-- <b><span class="team-font">Lên thuyền</span></b> -->
-        </div>
+       
         <b-img src="../assets/img/9.png" class="content_img_icon_road" />
       </b-col>
       <b-col>
-        <div class="md-step-title">
-          <i
-            class="fa fa-long-arrow-right arrow4"
-            aria-hidden="true"
-          ></i
-          ><br />
-          <!-- <b><span class="team-font">Lên thuyền</span></b> -->
-        </div>
         <b-img src="../assets/img/10.png" class="content_img_icon_road" />
       </b-col>
     </b-row>
+    
   </div>
+
 </template>
 
 <script>
@@ -153,6 +80,7 @@ export default {
   font-size: 4vw !important;
   color: rgb(8, 7, 6);
   font-family: 'tahoma';
+  padding-top: 50px;
 }
 .name-hotel {
   border-left: 3px solid white;
@@ -176,11 +104,12 @@ export default {
 }
 .content-play__header {
   font-size: 4vw !important;
-  color: #00a668;
+  color: #379237;
   font-family: 'tahoma';
 }
 .memory {
   padding: 5%;
+  padding-top: 50px;
 }
 
 .img-page-img {
