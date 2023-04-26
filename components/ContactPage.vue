@@ -83,20 +83,20 @@ export default {
 <style scoped lang="css">
 /* contact */
 @font-face {
-  src: url(../assets/font/Itim-Regular.ttf);
+  src: url(~/assets/font/Itim-Regular.ttf);
 }
 
 @font-face {
-  src: url(../assets/font/alura.ttf);
+  src: url(~/assets/font/alura.ttf);
 
 }
 @font-face {
-  src: url(../assets/font/Beef3.ttf);
+  src: url(~/assets/font/Beef3.ttf);
   font-family: back;
 }
 
 @font-face {
-  src: url(../assets/font/eula.ttf);
+  src: url(~/assets/font/eula.ttf);
   font-family: eula;
 }
 
