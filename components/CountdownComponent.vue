@@ -2,7 +2,7 @@
   <div id="aboutus" class="countdown-timer">
     <br />
     <br />
-    <h1 class="countdown-title" style="text-align: center;">VỀ CHÚNG TÔI</h1>
+    <h1 class="countdown-title" style="text-align: center; font-weight: bold">VỀ CHÚNG TÔI</h1>
     
     <!-- <flip-countdown deadline="08/13/2022 05:00:00"></flip-countdown> -->
 

@@ -10,7 +10,7 @@
     <!-- <button class="logout" @click="logout">Logout with Google</button> -->
 
     <div id="lien_he" class="container py-md-5">
-      <h3 class="heading text-center mb-3 mb-sm-5">LIÊN HỆ</h3>
+      <h3 class="heading text-center mb-3 mb-sm-5" style="font-weight: bold">LIÊN HỆ</h3>
       <div class="contact-grids mt-5">
         <div class="row">
           <div class="col-lg-6 col-md-6 contact-left-form">
@@ -120,18 +120,15 @@ export default {
   font-family: tap;
 } */
 
-@font-face {
+/* @font-face {
   src: url(~/assets/font/TAHOMAB0.ttf);
   font-family: tahoma;
-}
+} */
 
 .heading {
   font-size: 3.8em;
-  font-family: 'tahoma';
-  color: 
-
-#379237
-;
+  /* font-family: 'tahoma'; */
+  color: #379237;
 }
 
 /* @media (max-width: 500px) {

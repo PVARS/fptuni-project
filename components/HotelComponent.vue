@@ -1,6 +1,6 @@
 <template>
   <div id="island" class="suggest" >
-    <div class="suggest-header">ĐỘI NGŨ CHÚNG TÔI</div>
+    <div class="suggest-header" style="font-weight: bold">ĐỘI NGŨ CHÚNG TÔI</div>
     <div class="suggest-content">
       <div class="box">
         <span style="--i: 1">

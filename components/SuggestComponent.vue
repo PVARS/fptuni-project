@@ -1,7 +1,7 @@
 <template>
   <section class="suggest py-5" style="background-color: #379237">
     <div id="suggestion" class="">
-      <h1 class="content-play__header text-center">DỰ ÁN</h1>
+      <h1 class="content-play__header text-center" style="font-weight: bold">DỰ ÁN</h1>
     </div>
 
     <section class="mid-sec py-5">

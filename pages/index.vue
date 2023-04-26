@@ -15,14 +15,14 @@
 
 <script>
 import NavbarComponent from '~/components/NavbarComponent'
-import CoundownComponent from '@/components/CountdownComponent.vue'
+import CoundownComponent from '~/components/CountdownComponent.vue'
 import HomeComponent from '~/components/HomeComponent'
 import ScheduleComponent from '~/components/ScheduleComponent'
-import ContactBap from '@/components/ContactPage.vue'
+import ContactBap from '~/components/ContactPage.vue'
 import MemoryComponent from '~/components/MemoryComponent.vue'
 import SearchTeam from '~/components/SearchTeam.vue'
 import SuggestComponent from '~/components/SuggestComponent.vue'
-import FooterComponent from '@/components/FooterComponent.vue'
+import FooterComponent from '~/components/FooterComponent.vue'
 import HotelComponent from '~/components/HotelComponent.vue'
 export default {
   name: 'IndexPage',

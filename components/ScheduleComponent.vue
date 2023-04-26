@@ -1,7 +1,7 @@
 <template>
   <div id="schedulecpn" class="content-schedule__border">
     <div class="content-schedule">
-      <div class="content-schedule__header">
+      <div class="content-schedule__header" style="font-weight: bold">
         SỨ MỆNH - TẦM NHÌN - GIÁ TRỊ CỐT LÕI
       </div>
       <div class="content-schedule__list">

@@ -1,6 +1,6 @@
 <template>
   <div id="memory" class="memory">
-    <p class="content-play__header text-center">
+    <p class="content-play__header text-center" style="font-weight: bold;">
       ĐỐI TÁC
     </p>
     <b-row>

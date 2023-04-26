@@ -1,7 +1,7 @@
 <template>
   <div id="services" class="team-container">
     <div class="ranking" id="service-content" style="padding: 0 100px 0 100px;">
-      <p class="slogan-title__header">DỊCH VỤ</p>
+      <p class="slogan-title__header" style="font-weight: bold">DỊCH VỤ</p>
       <div class="card" style="border: unset;">
         <div class="card-body" style="margin: 0 auto; float: none; margin-bottom: 10px;">
           <div class="row">
