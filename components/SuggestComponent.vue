@@ -10,7 +10,7 @@
             <div class="tab-menu-suggestion mx-auto text-center">
 
               <input id="tab5" type="radio" name="suggestion" checked/>
-              <label for="tab5">Thiết kế nội thất 3D</label>
+              <label for="tab5"> 3D</label>
 
               <input id="tab7" type="radio" name="suggestion" />
               <label for="tab7">Thiết kế bộ nhận diện thương hiệu</label>
