@@ -8,7 +8,7 @@
             <div class="card mb-5" style="width: 18rem; margin-left: 70px;">
               <img class="card-img-top" src="../assets/img/service1.jpg" alt="Card image cap">
               <div class="card-body">
-                <h5 class="card-title">Thiết kế nội thất 3D</h5>
+                <h5 class="card-title">Thiết kế nội thất và diễn họa kiến trúc 3D</h5>
                 <p class="card-text" style="text-align: justify;">Chúng tôi cung cấp những dịch vụ thiết kế nhà ở, phòng ốc, nhà hàng, khách sạn, văn phòng với mọi phong cách, màu sắc và tầm giá.</p>
                 <!-- <a href="#" class="btn" style="background-color: #00a668; color: white;">Chi tiết</a> -->
               </div>
@@ -26,7 +26,7 @@
             <div class="card mb-5" style="width: 18rem; margin-left: 70px;">
               <img class="card-img-top" src="../assets/img/service3.jpg" alt="Card image cap">
               <div class="card-body">
-                <h5 class="card-title">Thiết kế NFT Avatar</h5>
+                <h5 class="card-title">Thiết kế NFT</h5>
                 <p class="card-text" style="text-align: justify;">Xây dựng một bộ thiết kế NFT Avatar độc nhất, giúp bạn có thể sử dụng cho nhiều mục đích các nhân với sự khác biệt.</p>
                 <!-- <a href="#" class="btn" style="background-color: #00a668; color: white;">Chi tiết</a> -->
               </div>

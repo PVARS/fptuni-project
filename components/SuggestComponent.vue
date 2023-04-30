@@ -10,13 +10,13 @@
             <div class="tab-menu-suggestion mx-auto text-center">
 
               <input id="tab5" type="radio" name="suggestion" checked/>
-              <label for="tab5"> 3D</label>
+              <label for="tab5"> Thiết kế nội thất và diễn họa kiến trúc 3D</label>
 
               <input id="tab7" type="radio" name="suggestion" />
               <label for="tab7">Thiết kế bộ nhận diện thương hiệu</label>
 
               <input id="tab6" type="radio" name="suggestion"/>
-              <label for="tab6">Thiết kế NFT Avatar</label>
+              <label for="tab6">Thiết kế NFT</label>
 
               <!-- <input id="tab8" type="radio" name="suggestion"/>
               <label for="tab8"><span class="fa-solid fa-star" aria-hidden="true"></span>Pose dáng mlem mlem</label> -->
@@ -206,14 +206,14 @@
                               <figure class="snip0016">
                                 <img class="img-suggestions" src="../assets/img/noithat1.jpg" alt="sample41" />
                                 <figcaption>
-                                <h2>Phòng ngủ hiện đại</h2>
-                                  <p>Phòng ngủ được thiết kế gọn gàng, diện tích không quá lớn nhưng đầy đủ công năng và sức chứa cho vợ chồng trẻ.</p>
+                                <h2>Nhà phố</h2>
+                                  <p>Nhà phố được thiết kế theo nhiều phong cách dựa vào sở thích của từng gia chủ với giá cả cạnh tranh</p>
                                   
                                 </figcaption>
                               </figure>
                           
                             <h3>
-                              <a  class="vv-link">Phòng ngủ hiện đại</a>
+                              <a  class="vv-link">Nhà phố</a>
                             </h3>
                           </div>
                         </div>
@@ -226,19 +226,19 @@
                               <figure class="snip0016">
                                 <img class="img-suggestions" src="../assets/img/nt2.png" alt="sample41" />
                                 <figcaption>
-                                <h2>Phòng ngủ địa trung hải</h2>
+                                <h2>Phòng ngủ</h2>
                                   <p>Phòng ngủ thoáng, màu sắc tươi mới cho một cảm giác trong lành, các vật dụng được dùng bằng tre, tạo cảm giác dễ chịu.</p>
                                   
                                 </figcaption>
                               </figure>
                         
                             <h3>
-                              <a  class="vv-link">Phòng ngủ địa trung hải</a>
+                              <a  class="vv-link">Phòng ngủ</a>
                             </h3>
                           </div>
                         </div>
                         
-                      </div>
+                    </div>
                       <div class="col-lg-4 col-md-6 mt-lg-0 mt-md-5 mt-4 column column-img">
                         <div class="services-gd">
                           <div class="serve-info">
@@ -247,14 +247,14 @@
                               <figure class="snip0016">
                                 <img class="img-suggestions" src="../assets/img/nt3.png" alt="sample41" />
                                 <figcaption>
-                                <h2>Phòng ngủ trẻ trung</h2>
-                                  <p>Chủ phòng là một sinh viên đại học, ưu thích phong cách trẻ trung, đầy đủ tiện nghi cho một không gian sống thoải mái, màu sắc tối, mạnh mẽ.</p>
+                                <h2>Phòng bếp</h2>
+                                  <p>Phòng bếp sáng sủa, tích hợp nhiều ngăn đựng đồ phù hợp với công việc nội trợ chuyên nghiệp</p>
                                 
                                 </figcaption>
                               </figure>
                 
                             <h3>
-                              <a class="vv-link">Phòng ngủ trẻ trung</a>
+                              <a class="vv-link">Phòng bếp</a>
                             </h3>
                           </div>
                         </div>
@@ -370,7 +370,7 @@
                 </div>
               </section>
               <section id="content6">
-                <h5 style="color: #b22222;">** Các sản phẩm NFT Avatar không thể public, nên chúng tôi chỉ cung cấp một vài sản phẩm mẫu</h5>
+                <h5 style="color: #b22222;">** Các sản phẩm NFT không thể public, nên chúng tôi chỉ cung cấp một vài sản phẩm mẫu</h5>
 
                 <div class="services-layout py-md-4 py-3">
                   <div class="container">
@@ -426,7 +426,7 @@
                                 <img class="img-suggestions" src="../assets/img/avatar3.jpg" alt="sample41" />
                                 <figcaption>
                                 <h2>Nấm Mushroom</h2>
-                                  <p>Một NFT Avatar có giá trị cao, được thiết kế dựa theo khuôn mặt một chàng trai buồn rầu.</p>
+                                  <p>Một NFTcó giá trị cao, được thiết kế dựa theo khuôn mặt một chàng trai buồn rầu.</p>
                                 
                                 </figcaption>
                               </figure>

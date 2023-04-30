@@ -28,9 +28,9 @@
           <li class="nav__link dropdown">
             <button a href="#service-content" class="dropbtn">Dịch vụ</button>
             <div class="dropdown-content">
-            <a href="#service-content">Thiết kế nội thất 3D</a>
+            <a href="#service-content">Thiết kế nội thất và diễn họa kiến trúc 3D</a>
             <a href="#service-content">Thiết kế bộ nhận diện thương hiệu</a>
-            <a href="#service-content">Thiết kế NFT Avatar</a>
+            <a href="#service-content">Thiết kế NFT</a>
             </div>
           </li>
           <li class="nav__link"><a href="#memory">Đối tác</a></li>
