@@ -9,7 +9,7 @@
     <div>
       <p style="color: white; font-size: 1.2rem;">Công ty TNHH Thiết kế Future Studio (FS) được thành lập trên niềm Đam mê mạnh mẽ “Mang đến cho khách hàng những cảm xúc mạnh mẽ nhất và những chuyến phiêu lưu mở mang tầm mắt”, hướng tới mục tiêu nâng cao chất lượng cuộc sống và mang lại nguồn năng lượng tích cực cho con người.</p>
       <p style="color: white; font-size: 1.2rem;">Future Studio tự hào là một đơn vị thiết kế tận tâm và sáng tạo. Đội ngũ thiết kế hơn 3 năm kinh nghiệm, mang đến cho Khách hàng những Giải pháp Thiết kế “Thông minh – Cá tính – Tinh tế”.</p>
-      <p style="color: white; font-size: 1.2rem;">Với trang thiết bị hiện đại cùng đội ngũ Nhân công lành nghề, Future Studio đã khẳng định Năng lực và Uy tín với hơn nhiều dự án thiết kế nội thất (Nhà ở, Chung cư, Biệt thự, Nhà hàng…), thiết kế nhận diện thương hiệu (Logo, Poster, Mascot, Brochure…) với các khách hàng trong và ngoài nước. </p>
+      <p style="color: white; font-size: 1.2rem;">Với trang thiết bị hiện đại cùng đội ngũ nhân công lành nghề, Future Studio đã khẳng định Năng lực và Uy tín với hơn nhiều dự án thiết kế nội thất và diễn họa kiến trúc (Nhà ở, Chung cư, Biệt thự, Nhà hàng…), thiết kế nhận diện thương hiệu (Logo, Poster, Mascot, Brochure…), thiết kế NFT với các khách hàng trong và ngoài nước. </p>
     </div>
     <br />
   </div>
