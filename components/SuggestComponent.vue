@@ -204,7 +204,7 @@
                             
                             
                               <figure class="snip0016">
-                                <img class="img-suggestions" src="../assets/img/noithat1.png" alt="sample41" />
+                                <img class="img-suggestions" src="../assets/img/noithat1.jpg" alt="sample41" />
                                 <figcaption>
                                 <h2>Phòng ngủ hiện đại</h2>
                                   <p>Phòng ngủ được thiết kế gọn gàng, diện tích không quá lớn nhưng đầy đủ công năng và sức chứa cho vợ chồng trẻ.</p>
