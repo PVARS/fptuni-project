@@ -204,7 +204,7 @@
                             
                             
                               <figure class="snip0016">
-                                <img class="img-suggestions" src="../assets/img/noithat1.png" alt="sample41" />
+                                <img class="img-suggestions" src="../assets/img/noithat1.jpg" alt="sample41" />
                                 <figcaption>
                                 <h2>Nhà phố</h2>
                                   <p>Nhà phố được thiết kế theo nhiều phong cách dựa vào sở thích của từng gia chủ với giá cả cạnh tranh</p>
