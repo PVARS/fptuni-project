@@ -535,7 +535,7 @@ li {
   }
 }
 
-@media (min-width: 1350px) and(max-width: 1460px) {
+@media (min-width: 1350px) and (max-width: 1460px) {
   .nav__bars-btn {
     display: none;
   }
@@ -554,7 +554,7 @@ li {
   }
 }
 
-@media (min-width: 1190px) and(max-width: 1350px) {
+@media (min-width: 1190px) and (max-width: 1350px) {
   .nav__bars-btn {
     display: none;
   }

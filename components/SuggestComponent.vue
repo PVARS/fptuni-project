@@ -1,7 +1,7 @@
 <template>
   <section class="suggest py-5" style="background-color: #379237">
     <div id="suggestion" class="">
-      <h1 class="content-play__header text-center">DỰ ÁN</h1>
+      <h1 class="content-play__header text-center" style="font-weight: bold">DỰ ÁN</h1>
     </div>
 
     <section class="mid-sec py-5">
@@ -10,7 +10,7 @@
             <div class="tab-menu-suggestion mx-auto text-center">
 
               <input id="tab5" type="radio" name="suggestion" checked/>
-              <label for="tab5">Thiết kế nội thất 3D</label>
+              <label for="tab5"> 3D</label>
 
               <input id="tab7" type="radio" name="suggestion" />
               <label for="tab7">Thiết kế bộ nhận diện thương hiệu</label>
@@ -204,7 +204,7 @@
                             
                             
                               <figure class="snip0016">
-                                <img class="img-suggestions" src="../assets/img/noithat1.png" alt="sample41" />
+                                <img class="img-suggestions" src="../assets/img/noithat1.jpg" alt="sample41" />
                                 <figcaption>
                                 <h2>Phòng ngủ hiện đại</h2>
                                   <p>Phòng ngủ được thiết kế gọn gàng, diện tích không quá lớn nhưng đầy đủ công năng và sức chứa cho vợ chồng trẻ.</p>

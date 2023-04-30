@@ -10,7 +10,7 @@
     <!-- <button class="logout" @click="logout">Logout with Google</button> -->
 
     <div id="lien_he" class="container py-md-5">
-      <h3 class="heading text-center mb-3 mb-sm-5">LIÊN HỆ</h3>
+      <h3 class="heading text-center mb-3 mb-sm-5" style="font-weight: bold">LIÊN HỆ</h3>
       <div class="contact-grids mt-5">
         <div class="row">
           <div class="col-lg-6 col-md-6 contact-left-form">
@@ -82,23 +82,23 @@ export default {
 
 <style scoped lang="css">
 /* contact */
-@font-face {
-  src: url(../assets/font/Itim-Regular.ttf);
+/* @font-face {
+  src: url(~/assets/font/Itim-Regular.ttf);
 }
 
 @font-face {
-  src: url(../assets/font/alura.ttf);
+  src: url(~/assets/font/alura.ttf);
 
 }
 @font-face {
-  src: url(../assets/font/Beef3.ttf);
+  src: url(~/assets/font/Beef3.ttf);
   font-family: back;
 }
 
 @font-face {
-  src: url(../assets/font/eula.ttf);
+  src: url(~/assets/font/eula.ttf);
   font-family: eula;
-}
+} */
 
 /* @font-face {
   src: url(../assets/font/LetterPress_Condensed.ttf);
@@ -115,23 +115,20 @@ export default {
   font-family: wood;
 } */
 
-@font-face {
-  src: url(../assets/font/Tapestry-Regular.ttf);
+/* @font-face {
+  src: url(~/assets/font/Tapestry-Regular.ttf);
   font-family: tap;
-}
+} */
 
-@font-face {
-  src: url(../assets/font/TAHOMAB0.ttf);
+/* @font-face {
+  src: url(~/assets/font/TAHOMAB0.ttf);
   font-family: tahoma;
-}
+} */
 
 .heading {
   font-size: 3.8em;
-  font-family: 'tahoma';
-  color: 
-
-#379237
-;
+  /* font-family: 'tahoma'; */
+  color: #379237;
 }
 
 /* @media (max-width: 500px) {
